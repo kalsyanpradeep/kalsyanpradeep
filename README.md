@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradeep Kumar
 - 👀 I’m interested in Sotware Development and Engineering
 - 🌱 I’m currently learning System Design
-- 💞️ I’m looking to collaborate on Open Source C++ projects
+- 💞️ I love exploring new technologies
 - 📫 Find me on LinkedIn
   - https://www.linkedin.com/in/pradeepkalsyan/
 
