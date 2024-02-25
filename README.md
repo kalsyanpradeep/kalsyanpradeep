@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradeep Kumar
 - 👀 I’m interested in Sotware Development and Engineering
-- 🌱 I’m currently learning System Design
-- 💞️ I love exploring new technologies
+- 🌱 I’m currently learning Distributed System Design
+- 💞️ I love Computer Science and Engineering
 - 📫 Find me on LinkedIn
   - https://www.linkedin.com/in/pradeepkalsyan/
 
